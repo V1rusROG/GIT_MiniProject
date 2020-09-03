@@ -124,13 +124,9 @@ public class GameManagerScript : MonoBehaviour
         WrongAnswer.gameObject.SetActive(false);
     }
 
-    public void ReturnToMenu()
+    public void Netflix1()
     {
-        
-    }
-
-    public void Escape()
-    {
-      
+        SceneManager.LoadScene(sceneBuildIndex: 15);
+        // if the Netflix theme is selected the first question will load
     }
 }

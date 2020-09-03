@@ -15,34 +15,34 @@ EditorBuildSettings:
     path: Assets/Scenes/Theme Selections.unity
     guid: eb7a8a59ea0655e449f5268cd3689b1e
   - enabled: 1
-    path: Assets/Scenes/Horror1.unity
+    path: Assets/Scenes/Horror/Horror1.unity
     guid: 25fb0689a42d13046abf0a1b33b2203e
   - enabled: 1
-    path: Assets/Scenes/Horror2.unity
+    path: Assets/Scenes/Horror/Horror2.unity
     guid: 5d2b503c444cbe347a67ea6f9e9a0331
   - enabled: 1
-    path: Assets/Scenes/Horror3.unity
+    path: Assets/Scenes/Horror/Horror3.unity
     guid: f387dbf716a6db341a72218eae5f677a
   - enabled: 1
-    path: Assets/Scenes/Horror4.unity
+    path: Assets/Scenes/Horror/Horror4.unity
     guid: 12beb30ddf2e4b846ac69f1fef0ccd5d
   - enabled: 1
-    path: Assets/Scenes/Horror5.unity
+    path: Assets/Scenes/Horror/Horror5.unity
     guid: 173172e0b130d1f4ab5188ab17b05a27
   - enabled: 1
-    path: Assets/Scenes/Horror6.unity
+    path: Assets/Scenes/Horror/Horror6.unity
     guid: 590bc236b5fa12342971b2a38eadd654
   - enabled: 1
-    path: Assets/Scenes/Horror7.unity
+    path: Assets/Scenes/Horror/Horror7.unity
     guid: 9a8965f5e5d9a0940998b86426d6d15c
   - enabled: 1
-    path: Assets/Scenes/Horror8.unity
+    path: Assets/Scenes/Horror/Horror8.unity
     guid: 54e807466ceb1b5489625d1e5e83939b
   - enabled: 1
-    path: Assets/Scenes/Horror9.unity
+    path: Assets/Scenes/Horror/Horror9.unity
     guid: 976e49326be8f0841a6343234a991842
   - enabled: 1
-    path: Assets/Scenes/Horror10.unity
+    path: Assets/Scenes/Horror/Horror10.unity
     guid: a5760ae261ba66e4a9df4e81d928ca2a
   - enabled: 1
     path: Assets/Scenes/Winning Page.unity
@@ -50,4 +50,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Losing Page.unity
     guid: 830bae76b7a91c34c845e5de86f909ce
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix.unity
+    guid: 8147c5e9f7c566946b01e78d5c69d0b9
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 2.unity
+    guid: f973aabdda7467e428e7823c4fb79ecf
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 3.unity
+    guid: 07704a83dae41f344951e2a5fefa5a50
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 4.unity
+    guid: a65b827bbfd08974d9a776841754b3d9
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 5.unity
+    guid: 5fa3768b6836a4b4386d56427aa6d890
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 6.unity
+    guid: 6762557ecdadc614c853c5d0f89099ef
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 7.unity
+    guid: 322a412ac76df9446a253e0fd3990c9a
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 8.unity
+    guid: 6968015f3c07de840b53da96655d581c
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 9.unity
+    guid: 8d963a7f76ad10149ba4733047583f79
+  - enabled: 1
+    path: Assets/Scenes/Netflix/Netflix 10.unity
+    guid: 46ed17b7b20030a478541e59331b12ad
   m_configObjects: {}
